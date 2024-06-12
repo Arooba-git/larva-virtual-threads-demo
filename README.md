@@ -1,1 +1,1 @@
-This is a sample project, a replica of Larva (https://github.com/GHY-ORG/larva) with only the Usercontroller, to demonstrate the performance of the application on Virtual Threads. 
+This sample project is a simplified replica of Larva (https://github.com/GHY-ORG/larva), featuring only the UserController, designed to demonstrate the application's performance on Virtual Threads
